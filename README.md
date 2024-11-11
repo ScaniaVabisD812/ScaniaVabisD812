@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @ScaniaVabisD812 (Ägrid)<br>- 👀 I’m interested in Microsoft .NET and all what it means<br>- 🌱 I’m currently learning create, host and maintain .NET web applications on my ubuntu server<br>- 🏫 Studying information systems on Skövde University<br>- 📫 Discord: arvidn04<br>- 🌐 http://ägrid.se<br>- ⚡ Fun fact: Coding without melodic death metal is like drinking cold coffee
+- 👋 Hi, I’m @ScaniaVabisD812 (Ägrid)<br>- 👀 I’m interested in Microsoft .NET and all what it means<br>- 🌱 I’m currently learning to create, host and maintain .NET web applications on my ubuntu server<br>- 🏫 Studying information systems on Skövde University<br>- 📫 Discord: arvidn04<br>- 🌐 http://ägrid.se<br>- ⚡ Fun fact: Coding without melodic death metal is like drinking cold coffee
 
 
 ## 🌐 Socials:
