@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @ScaniaVabisD812 (Ägrid)<br>- 🏫 Studying information systems on Skövde University<br>- 📫 Discord: arvidn04<br>- 🌐 http://ägrid.se<br>- ⚡ Fun fact: Coding without melodic death metal is like drinking cold coffee
+- 👋 Hi, I’m @ScaniaVabisD812 (Ägrid)<br>- 🏫 Studying information systems at Skövde University<br>- 📫 Discord: arvidn04<br>- 🌐 http://ägrid.se<br>- ⚡ Fun fact: Coding without melodic death metal is like drinking cold coffee
 
 
 ## 🌐 Socials:
